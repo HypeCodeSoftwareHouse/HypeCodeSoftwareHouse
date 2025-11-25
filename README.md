@@ -21,11 +21,7 @@ Sistemas de autenticação, pagamentos, funis e CRM integrados
 
 Aqui está parte do nosso stack:
 
-Frontend: Next.js 15, React, TypeScript, Tailwind CSS, ShadCN
-
 Backend: Node.js, Prisma, PostgreSQL, Redis
-
-Mobile: Flutter, React Native
 
 Automação: n8n, Make, Meta API, Webhooks
 
